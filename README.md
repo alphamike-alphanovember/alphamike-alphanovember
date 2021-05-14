@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Singh Gautam
-- 👀 I’m a FrontEnd Developer and Javascript Enthusiast.
+- 👀 I’m a FrontEnd Developer.
 - 🌱 I’m currently on the road to FullStack Development
 
 
